@@ -18,8 +18,14 @@
     color: #98b013;
 }
 
-.nav-link-1,
-.nav-link-2,
+.nav-link-1:hover {
+    transition: 0.7s;
+}
+
+.nav-link-2:hover {
+    transition: 0.7s;
+}
+
 .nav-link-3:hover {
     transition: 0.7s;
 }
