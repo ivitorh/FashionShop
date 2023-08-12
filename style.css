@@ -18,6 +18,11 @@
     color: #98b013;
 }
 
+.nav-link-1,
+.nav-link-2,
+.nav-link-3:hover {
+    transition: 0.7s;
+}
 
 @media(min-width: 768px) {
 
